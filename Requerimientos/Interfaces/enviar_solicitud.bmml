@@ -1,0 +1,36 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="866" measuredH="622" mockupW="848" mockupH="617">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="18" y="5" w="848" h="617" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pagina%20Inicio%20-%20UMBook%0Ahttp%3A//www.umbook.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="725" y="95" w="-1" h="-1" measuredW="105" measuredH="27" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>5865130</color>
+        <text>Cerrar%20Sesion</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="698" y="252" w="-1" h="-1" measuredW="114" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar%20Solicitud</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::DataGrid" x="50" y="238" w="621" h="290" measuredW="345" measuredH="171" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Usuarios%20%5E%2C%20Estado%20%5Ev%2CAmigo%2C%20Enviar%20solocitud%2C%0AMatias%2C%20Conectado%2Csi%2C%20%5B%5D%2C%20%0ADaniela%2C%20Conectado%2Cno%2C%20%5Bx%5D%20%2C%0AEnrique%2C%20Desconectado%2Cno%2C%20%5Bx%5D%2C%0ASol%2C%20Desconectado%2Cno%2C%20%5Bx%5D%2C%0AAriel%2C%20Conectado%2Cno%2C%20%5Bx%5D%2C%0A%7B65L%2C%200R%2C%2035%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::LinkBar" x="304" y="553" w="-1" h="-1" measuredW="294" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20Contacto%2C%20Acerca%20de%20UMBook%2C%20Ayuda</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::TextArea" x="51" y="87" w="319" h="94" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>72</size>
+        <text>UMBook</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
